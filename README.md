@@ -11,4 +11,4 @@ anism to efficiently capture temporal patterns in multivariate data streams.
 - Structured State Space Sequence model (S4), with its variant MAMBA, known for excelling in long-range sequence modeling across domains like vision, lan-
 guage, and audio.
 The study will implement these models to predict future stock prices and evaluate their performance
-within an asset allocation problem
+within an asset allocation problem.
