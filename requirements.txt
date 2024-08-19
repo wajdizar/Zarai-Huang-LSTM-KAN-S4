@@ -1,0 +1,9 @@
+matplotlib==3.8.0
+numpy==1.26.1
+pandas==2.1.2
+scikit-learn==1.3.2
+scipy==1.11.3
+sklearn==0.0.post10
+torch==2.0.0
+torchmetrics==1.2.0
+tqdm==4.66.1
