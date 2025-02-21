@@ -1,4 +1,4 @@
-# TKAN MAMBA Application
+# TKAN MAMBA Application ([Paper](https://dx.doi.org/10.2139/ssrn.5146629))
 
 
 The development of machine learning, particularly deep learning, has significantly advanced time series
